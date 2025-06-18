@@ -1,3 +1,28 @@
+## picknik_controllers (jazzy) - 0.0.4-1
+
+The packages in the `picknik_controllers` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy picknik_controllers --override-release-repository-push-url git@github.com:revyos-ros/picknik_controllers-release.git` on `Wed, 18 Jun 2025 07:17:00 -0000`
+
+These packages were released:
+- `picknik_reset_fault_controller`
+- `picknik_twist_controller`
+
+Version of package(s) in repository `picknik_controllers`:
+
+- upstream repository: https://github.com/PickNikRobotics/picknik_controllers.git
+- release repository: https://github.com/revyos-ros/picknik_controllers-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.3-4`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## picknik_controllers (jazzy) - 0.0.3-4
 
 The packages in the `picknik_controllers` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy picknik_controllers --override-release-repository-push-url git@github.com:revyos-ros/picknik_controllers-release` on `Thu, 27 Jun 2024 05:29:41 -0000`
