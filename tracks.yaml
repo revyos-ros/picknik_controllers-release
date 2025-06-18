@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/picknik_controllers-release
+release_repo_url: git@github.com:revyos-ros/picknik_controllers-release.git
 tracks:
   humble:
     actions:
